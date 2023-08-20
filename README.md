@@ -10,3 +10,4 @@
 | `msartimprst` | This is for _impressionist_ art. |
 | `msartcnctp` | Using this trigger word will take you to the world of computer game concept arts. |
 | `msartpxl` | This trigger word is for retro video games and pixel art |
+| `msartdrk` | This one is specially for _dark fantasy_ concept arts. |

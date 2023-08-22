@@ -14,3 +14,4 @@
 | Checkpoint | What it does |
 |:----------:|:--------------:|
 | mann-e-53-merge-3-revised | artistic checkpoint |
+| mann-e-53-merge-5-revised | video game (retro)  checkpoint|

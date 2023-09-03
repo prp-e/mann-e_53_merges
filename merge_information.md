@@ -17,5 +17,6 @@
 |:----------:|:--------------:|
 | mann-e-53-merge-3-revised | artistic checkpoint |
 | mann-e-53-merge-6-revised | video game (all) checkpoint |
+| mann-e-53-merge-7-revised | sketches and comics |
 
 P.S: Game rows have been removed due to having a big base merge.

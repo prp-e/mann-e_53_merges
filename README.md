@@ -12,3 +12,5 @@
 | `msartpxl` | This trigger word is for retro video games and pixel art |
 | `msartdrk` | This one is specially for _dark fantasy_ concept arts. |
 | `msartbmp` | This trigger word is the part of _pixel art_ project |
+| `msartcmc` | This particular trigger word is just for the comic book style |
+| `msartskch` | This trigger word is for sketches and illustrations. |

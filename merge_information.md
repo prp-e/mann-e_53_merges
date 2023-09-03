@@ -17,3 +17,4 @@
 | mann-e-53-merge-3-revised | artistic checkpoint |
 | mann-e-53-merge-4-revised | video game (concept art) checkpoint |
 | mann-e-53-merge-5-revised | video game (retro)  checkpoint|
+| mann-e-53-merge-6-revised | video game (all) checkpoint |

@@ -25,3 +25,4 @@ P.S: Game rows have been removed due to having a big base merge.
 
 | Checkpoint  A| Checkpoint B| Ratio |
 |:------------:|:-----------:|:-----:|
+| mann-e-53-base-2 | mann-e-53-merge-3-revised | 0.7 |

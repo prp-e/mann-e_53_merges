@@ -20,3 +20,8 @@
 | mann-e-53-merge-7-revised | sketches and comics |
 
 P.S: Game rows have been removed due to having a big base merge.
+
+## Final Merge
+
+| Checkpoint  A| Checkpoint B| Ratio |
+|:------------:|:-----------:|:-----:|
